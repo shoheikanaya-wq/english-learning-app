@@ -1,50 +1,50 @@
 window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の土台"],["intermediate","中級","文をつないで説明する"],["daily","日常","暮らしで自然に使う"],["travel","旅行","移動・宿泊・食事・トラブル"],["work","仕事","確認・報告・安全・設備"],["advanced","上級","理由・意見・調整"],["master","超級","即興・言い換え・交渉"]],lessons:[
-{id:"b01",cat:"basic",title:"1. あいさつ",items:[
+{id:"b01",scene:"greeting",cat:"basic",title:"1. あいさつ",items:[
 {en:"Good morning.",ja:"おはようございます。",a:"Good morning.",b:"Good morning! How are you?"},
 {en:"How are you?",ja:"元気ですか？",a:"How are you?",b:"I'm good, thank you."},
 {en:"I'm doing well, thank you.",ja:"元気です、ありがとう。",a:"How are you doing?",b:"I'm doing well, thank you."},
 {en:"See you later.",ja:"またあとで。",a:"I'm leaving now.",b:"Okay. See you later."}]},
-{id:"b02",cat:"basic",title:"2. 自己紹介",items:[
+{id:"b02",scene:"introduction",cat:"basic",title:"2. 自己紹介",items:[
 {en:"My name is Shohei.",ja:"私の名前はショウヘイです。",a:"What's your name?",b:"My name is Shohei."},
 {en:"I'm from Japan.",ja:"日本から来ました。",a:"Where are you from?",b:"I'm from Japan."},
 {en:"I live in Aichi.",ja:"愛知に住んでいます。",a:"Where do you live?",b:"I live in Aichi."},
 {en:"Nice to meet you.",ja:"はじめまして。",a:"Nice to meet you.",b:"Nice to meet you, too."}]},
-{id:"b03",cat:"basic",title:"3. 基本の返事",items:[
+{id:"b03",scene:"response",cat:"basic",title:"3. 基本の返事",items:[
 {en:"Yes, that's right.",ja:"はい、その通りです。",a:"Is this correct?",b:"Yes, that's right."},
 {en:"No, not yet.",ja:"いいえ、まだです。",a:"Are you ready?",b:"No, not yet."},
 {en:"I'm not sure.",ja:"よく分かりません。",a:"Do you know?",b:"I'm not sure."},
 {en:"I understand.",ja:"分かりました。",a:"Does that make sense?",b:"Yes, I understand."}]},
-{id:"b04",cat:"basic",title:"4. 聞き返す・お願いする",items:[
+{id:"b04",scene:"clarification",cat:"basic",title:"4. 聞き返す・お願いする",items:[
 {en:"Could you say that again?",ja:"もう一度言ってもらえますか？",a:"Did you understand?",b:"Could you say that again?"},
 {en:"Please speak more slowly.",ja:"もう少しゆっくり話してください。",a:"Is this speed okay?",b:"Please speak more slowly."},
 {en:"What does this mean?",ja:"これはどういう意味ですか？",a:"Do you know this word?",b:"No. What does this mean?"},
 {en:"Could you show me?",ja:"見せてもらえますか？",a:"Do you know how to do it?",b:"Not yet. Could you show me?"}]},
-{id:"b05",cat:"basic",title:"5. 時間・予定",items:[
+{id:"b05",scene:"schedule",cat:"basic",title:"5. 時間・予定",items:[
 {en:"What time is it?",ja:"何時ですか？",a:"What time is it?",b:"It's three o'clock."},
 {en:"What time does it start?",ja:"何時に始まりますか？",a:"The meeting is today.",b:"What time does it start?"},
 {en:"I'm free this afternoon.",ja:"今日の午後は空いています。",a:"Are you busy this afternoon?",b:"No. I'm free this afternoon."},
 {en:"See you tomorrow.",ja:"また明日。",a:"I'm going home now.",b:"Okay. See you tomorrow."}]},
-{id:"b06",cat:"basic",title:"6. 場所・道案内",items:[
+{id:"b06",scene:"directions",cat:"basic",title:"6. 場所・道案内",items:[
 {en:"Where is the station?",ja:"駅はどこですか？",a:"Can I help you?",b:"Yes. Where is the station?"},
 {en:"Is it far from here?",ja:"ここから遠いですか？",a:"The station is that way.",b:"Is it far from here?"},
 {en:"Turn left at the corner.",ja:"角を左に曲がってください。",a:"How do I get there?",b:"Turn left at the corner."},
 {en:"It's next to the bank.",ja:"銀行の隣です。",a:"Where is the pharmacy?",b:"It's next to the bank."}]},
-{id:"b07",cat:"basic",title:"7. 買い物",items:[
+{id:"b07",scene:"shopping",cat:"basic",title:"7. 買い物",items:[
 {en:"How much is this?",ja:"これはいくらですか？",a:"Can I help you?",b:"Yes. How much is this?"},
 {en:"Do you have a larger size?",ja:"もっと大きいサイズはありますか？",a:"How does it fit?",b:"It's small. Do you have a larger size?"},
 {en:"I'll take this one.",ja:"これにします。",a:"Would you like this one?",b:"Yes. I'll take this one."},
 {en:"Can I pay by card?",ja:"カードで払えますか？",a:"How would you like to pay?",b:"Can I pay by card?"}]},
-{id:"b08",cat:"basic",title:"8. 食事・注文",items:[
+{id:"b08",scene:"restaurant",cat:"basic",title:"8. 食事・注文",items:[
 {en:"I'd like some coffee, please.",ja:"コーヒーをお願いします。",a:"What would you like?",b:"I'd like some coffee, please."},
 {en:"Could I see the menu, please?",ja:"メニューを見せてもらえますか？",a:"Are you ready to order?",b:"Not yet. Could I see the menu, please?"},
 {en:"What do you recommend?",ja:"おすすめは何ですか？",a:"Would you like something to eat?",b:"Yes. What do you recommend?"},
 {en:"Could I have the check, please?",ja:"お会計をお願いします。",a:"Anything else?",b:"No, thank you. Could I have the check, please?"}]},
-{id:"b09",cat:"basic",title:"9. 移動・交通",items:[
+{id:"b09",scene:"transport",cat:"basic",title:"9. 移動・交通",items:[
 {en:"How do I get there?",ja:"そこへはどう行けばいいですか？",a:"Where are you going?",b:"I'm going to the museum. How do I get there?"},
 {en:"Which train should I take?",ja:"どの電車に乗ればいいですか？",a:"Where are you going?",b:"Nagoya. Which train should I take?"},
 {en:"Does this bus go to the station?",ja:"このバスは駅に行きますか？",a:"Can I help you?",b:"Yes. Does this bus go to the station?"},
 {en:"I'd like to go to this address.",ja:"この住所までお願いします。",a:"Where would you like to go?",b:"I'd like to go to this address."}]},
-{id:"b10",cat:"basic",title:"10. 困ったとき",items:[
+{id:"b10",scene:"help",cat:"basic",title:"10. 困ったとき",items:[
 {en:"Could you help me?",ja:"手伝ってもらえますか？",a:"Are you okay?",b:"I need some help. Could you help me?"},
 {en:"I can't find my phone.",ja:"携帯電話が見つかりません。",a:"What's wrong?",b:"I can't find my phone."},
 {en:"I don't feel well.",ja:"気分がよくありません。",a:"Are you okay?",b:"No. I don't feel well."},
@@ -76,36 +76,36 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 {en:"I just sent you a message.",ja:"今メッセージを送りました。",a:"Did you send the address?",b:"Yes. I just sent you a message."},
 {en:"Sorry, I missed your call.",ja:"電話に出られなくてすみません。",a:"I called you earlier.",b:"Sorry, I missed your call."}]},
 
-{id:"t01",cat:"travel",title:"1. ホテル",items:[
+{id:"t01",scene:"hotel",cat:"travel",title:"1. ホテル",items:[
 {en:"I have a reservation.",ja:"予約しています。",a:"How can I help you?",b:"I have a reservation."},
 {en:"Could I check in early?",ja:"早めにチェックインできますか？",a:"Check-in starts at three.",b:"Could I check in early?"},
 {en:"What time is check-out?",ja:"チェックアウトは何時ですか？",a:"Is there anything else?",b:"Yes. What time is check-out?"}]},
-{id:"t02",cat:"travel",title:"2. 空港",items:[
+{id:"t02",scene:"airport",cat:"travel",title:"2. 空港",items:[
 {en:"Where is the check-in counter?",ja:"チェックインカウンターはどこですか？",a:"Can I help you?",b:"Yes. Where is the check-in counter?"},
 {en:"Which gate does the flight leave from?",ja:"この便は何番ゲートから出発しますか？",a:"What would you like to know?",b:"Which gate does the flight leave from?"},
 {en:"My flight has been delayed.",ja:"私の便が遅れています。",a:"Why are you still here?",b:"My flight has been delayed."}]},
-{id:"t03",cat:"travel",title:"3. レストラン",items:[
+{id:"t03",scene:"restaurant",cat:"travel",title:"3. レストラン",items:[
 {en:"Do you have a table for two?",ja:"2人ですが席はありますか？",a:"Good evening.",b:"Good evening. Do you have a table for two?"},
 {en:"Does this contain nuts?",ja:"これにはナッツが入っていますか？",a:"Would you like to order this?",b:"Maybe. Does this contain nuts?"},
 {en:"Everything was delicious.",ja:"どれもおいしかったです。",a:"How was your meal?",b:"Everything was delicious."}]},
-{id:"t04",cat:"travel",title:"4. トラブル",items:[
+{id:"t04",scene:"trouble",cat:"travel",title:"4. トラブル",items:[
 {en:"I think I'm lost.",ja:"道に迷ったようです。",a:"Do you need help?",b:"Yes. I think I'm lost."},
 {en:"My luggage hasn't arrived.",ja:"荷物が出てきません。",a:"What's the problem?",b:"My luggage hasn't arrived."},
 {en:"Could you call a taxi for me?",ja:"タクシーを呼んでもらえますか？",a:"How can I help?",b:"Could you call a taxi for me?"}]},
 
-{id:"w01",cat:"work",title:"1. 確認と報告",items:[
+{id:"w01",scene:"report",cat:"work",title:"1. 確認と報告",items:[
 {en:"Let me check it first.",ja:"まず確認させてください。",a:"Can you fix it now?",b:"Let me check it first."},
 {en:"The pressure is lower than usual.",ja:"圧力が通常より低いです。",a:"What did you notice?",b:"The pressure is lower than usual."},
 {en:"I'll let you know when I find the cause.",ja:"原因が分かったら知らせます。",a:"Do you know what's wrong?",b:"Not yet. I'll let you know when I find the cause."}]},
-{id:"w02",cat:"work",title:"2. 安全確認",items:[
+{id:"w02",scene:"safety",cat:"work",title:"2. 安全確認",items:[
 {en:"Please turn off the power first.",ja:"まず電源を切ってください。",a:"Can I open this panel?",b:"Please turn off the power first."},
 {en:"Make sure the machine has stopped completely.",ja:"機械が完全に停止したことを確認してください。",a:"Can I start working now?",b:"Make sure the machine has stopped completely."},
 {en:"We need to check the area before restarting.",ja:"再起動する前に周囲を確認する必要があります。",a:"Can we restart it now?",b:"We need to check the area before restarting."}]},
-{id:"w03",cat:"work",title:"3. 異常を伝える",items:[
+{id:"w03",scene:"abnormality",cat:"work",title:"3. 異常を伝える",items:[
 {en:"There's an unusual noise coming from the motor.",ja:"モーターから異音がしています。",a:"What did you notice?",b:"There's an unusual noise coming from the motor."},
 {en:"The temperature is higher than normal.",ja:"温度が通常より高いです。",a:"Is the temperature okay?",b:"No. The temperature is higher than normal."},
 {en:"There's a small leak near the valve.",ja:"バルブ付近に少量の漏れがあります。",a:"Did you find anything?",b:"Yes. There's a small leak near the valve."}]},
-{id:"w04",cat:"work",title:"4. 作業を引き継ぐ",items:[
+{id:"w04",scene:"handover",cat:"work",title:"4. 作業を引き継ぐ",items:[
 {en:"I've already checked the sensor.",ja:"センサーはすでに確認しました。",a:"Have you checked the sensor?",b:"Yes. I've already checked the sensor."},
 {en:"The problem hasn't been fixed yet.",ja:"問題はまだ直っていません。",a:"Is the machine ready?",b:"No. The problem hasn't been fixed yet."},
 {en:"Please keep an eye on the pressure.",ja:"圧力を注意して見ておいてください。",a:"What should I watch?",b:"Please keep an eye on the pressure."}]},
@@ -133,18 +133,18 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 {id:"d06",cat:"daily",title:"6. 家事・買い物",items:[{en:"We need to buy some groceries.",ja:"食料品を買う必要があります。",a:"Do we need anything?",b:"We need to buy some groceries."},{en:"I'll take out the trash.",ja:"ゴミを出してきます。",a:"Can you help me?",b:"Sure. I'll take out the trash."},{en:"We're almost out of milk.",ja:"牛乳がもうほとんどありません。",a:"Do we have enough milk?",b:"No. We're almost out of milk."}]},
 {id:"d07",cat:"daily",title:"7. 約束・待ち合わせ",items:[{en:"I'll meet you at the station.",ja:"駅で待ち合わせましょう。",a:"Where should we meet?",b:"I'll meet you at the station."},{en:"I'm running about ten minutes late.",ja:"10分ほど遅れています。",a:"Where are you?",b:"I'm running about ten minutes late."},{en:"Take your time. I'm not in a hurry.",ja:"ゆっくりで大丈夫です。急いでいません。",a:"Sorry I'm late.",b:"Take your time. I'm not in a hurry."}]},
 {id:"d08",cat:"daily",title:"8. 雑談",items:[{en:"How was your day?",ja:"今日はどうでしたか？",a:"How was your day?",b:"It was pretty good."},{en:"That sounds interesting.",ja:"それは面白そうですね。",a:"I'm learning something new.",b:"That sounds interesting."},{en:"Really? Tell me more.",ja:"本当？もっと聞かせて。",a:"Something funny happened today.",b:"Really? Tell me more."}]},
-{id:"t05",cat:"travel",title:"5. 鉄道・乗り換え",items:[{en:"Do I need to change trains?",ja:"乗り換えは必要ですか？",a:"Where are you going?",b:"Do I need to change trains?"},{en:"Which platform should I use?",ja:"何番ホームを使えばいいですか？",a:"What do you need to know?",b:"Which platform should I use?"},{en:"Is this the express train?",ja:"これは急行ですか？",a:"Are you getting on?",b:"Yes. Is this the express train?"}]},
-{id:"t06",cat:"travel",title:"6. 観光",items:[{en:"What time does the museum open?",ja:"博物館は何時に開きますか？",a:"Are you visiting the museum?",b:"Yes. What time does the museum open?"},{en:"How long does it take to get there?",ja:"そこまでどのくらい時間がかかりますか？",a:"Are you going to the castle?",b:"Yes. How long does it take to get there?"},{en:"Could you take a picture for me?",ja:"写真を撮ってもらえますか？",a:"Do you need help?",b:"Yes. Could you take a picture for me?"}]},
-{id:"t07",cat:"travel",title:"7. 買い物・免税",items:[{en:"Can I try this on?",ja:"試着してもいいですか？",a:"Would you like to try it?",b:"Yes. Can I try this on?"},{en:"Is this tax-free?",ja:"これは免税ですか？",a:"Are you visiting from abroad?",b:"Yes. Is this tax-free?"},{en:"Could I get a receipt, please?",ja:"レシートをいただけますか？",a:"Anything else?",b:"Could I get a receipt, please?"}]},
-{id:"t08",cat:"travel",title:"8. 体調・緊急時",items:[{en:"I need to see a doctor.",ja:"医師に診てもらう必要があります。",a:"How can I help?",b:"I need to see a doctor."},{en:"Where can I buy some medicine?",ja:"薬はどこで買えますか？",a:"What are you looking for?",b:"Where can I buy some medicine?"},{en:"Please call an ambulance.",ja:"救急車を呼んでください。",a:"What's wrong?",b:"Please call an ambulance."}]},
-{id:"w05",cat:"work",title:"5. 点検",items:[{en:"I'll check the oil level first.",ja:"まず油量を確認します。",a:"What will you check first?",b:"I'll check the oil level first."},{en:"The reading is within the normal range.",ja:"測定値は正常範囲内です。",a:"How does the reading look?",b:"The reading is within the normal range."},{en:"I found no visible damage.",ja:"目視できる損傷はありませんでした。",a:"Did you find any damage?",b:"No. I found no visible damage."}]},
-{id:"w06",cat:"work",title:"6. 漏れ・圧力",items:[{en:"The pressure keeps dropping.",ja:"圧力が下がり続けています。",a:"What's happening to the pressure?",b:"The pressure keeps dropping."},{en:"There may be a leak in the line.",ja:"配管に漏れがあるかもしれません。",a:"What could be causing it?",b:"There may be a leak in the line."},{en:"Let's check the fittings and seals.",ja:"継手とシールを確認しましょう。",a:"What should we check?",b:"Let's check the fittings and seals."}]},
-{id:"w07",cat:"work",title:"7. 温度・冷却",items:[{en:"The outlet temperature is too high.",ja:"出口温度が高すぎます。",a:"What did you notice?",b:"The outlet temperature is too high."},{en:"The cooling water may not be flowing properly.",ja:"冷却水が正常に流れていない可能性があります。",a:"What could be wrong?",b:"The cooling water may not be flowing properly."},{en:"Let's compare the inlet and outlet temperatures.",ja:"入口と出口の温度を比較しましょう。",a:"What should we do next?",b:"Let's compare the inlet and outlet temperatures."}]},
-{id:"w08",cat:"work",title:"8. センサー・信号",items:[{en:"The sensor isn't detecting the position correctly.",ja:"センサーが位置を正しく検出していません。",a:"What's wrong with the sensor?",b:"The sensor isn't detecting the position correctly."},{en:"The signal changes too early.",ja:"信号の切り替わりが早すぎます。",a:"What did you observe?",b:"The signal changes too early."},{en:"Let's check the sensor alignment.",ja:"センサーの位置合わせを確認しましょう。",a:"What should we check?",b:"Let's check the sensor alignment."}]},
-{id:"w09",cat:"work",title:"9. 電気・電源",items:[{en:"The breaker has tripped.",ja:"ブレーカーが落ちています。",a:"Why is there no power?",b:"The breaker has tripped."},{en:"We need to check the voltage.",ja:"電圧を確認する必要があります。",a:"What should we measure?",b:"We need to check the voltage."},{en:"Don't touch the terminals until the power is isolated.",ja:"電源を遮断するまで端子に触れないでください。",a:"Can I check the terminals now?",b:"Don't touch the terminals until the power is isolated."}]},
-{id:"w10",cat:"work",title:"10. 修理後の確認",items:[{en:"The repair is complete.",ja:"修理は完了しました。",a:"Is the repair finished?",b:"Yes. The repair is complete."},{en:"Let's run the machine and check it again.",ja:"機械を動かしてもう一度確認しましょう。",a:"What should we do now?",b:"Let's run the machine and check it again."},{en:"Everything looks normal now.",ja:"現在はすべて正常に見えます。",a:"How does it look now?",b:"Everything looks normal now."}]},
-{id:"w11",cat:"work",title:"11. 故障履歴",items:[{en:"This problem happened once before.",ja:"この問題は以前にも一度発生しました。",a:"Has this happened before?",b:"Yes. This problem happened once before."},{en:"The same part was replaced last year.",ja:"同じ部品を去年交換しました。",a:"Was this part replaced before?",b:"The same part was replaced last year."},{en:"Let's check the maintenance record.",ja:"保全記録を確認しましょう。",a:"How can we find out?",b:"Let's check the maintenance record."}]},
-{id:"w12",cat:"work",title:"12. 原因切り分け",items:[{en:"Let's rule out the electrical side first.",ja:"まず電気系統を原因候補から切り分けましょう。",a:"Where should we start?",b:"Let's rule out the electrical side first."},{en:"If the pressure is stable, the valve may not be the cause.",ja:"圧力が安定しているなら、バルブが原因ではないかもしれません。",a:"Could the valve be the cause?",b:"If the pressure is stable, the valve may not be the cause."},{en:"We need more data before replacing the part.",ja:"部品を交換する前に、さらにデータが必要です。",a:"Should we replace it now?",b:"We need more data before replacing the part."}]},
+{id:"t05",scene:"train",cat:"travel",title:"5. 鉄道・乗り換え",items:[{en:"Do I need to change trains?",ja:"乗り換えは必要ですか？",a:"Where are you going?",b:"Do I need to change trains?"},{en:"Which platform should I use?",ja:"何番ホームを使えばいいですか？",a:"What do you need to know?",b:"Which platform should I use?"},{en:"Is this the express train?",ja:"これは急行ですか？",a:"Are you getting on?",b:"Yes. Is this the express train?"}]},
+{id:"t06",scene:"sightseeing",cat:"travel",title:"6. 観光",items:[{en:"What time does the museum open?",ja:"博物館は何時に開きますか？",a:"Are you visiting the museum?",b:"Yes. What time does the museum open?"},{en:"How long does it take to get there?",ja:"そこまでどのくらい時間がかかりますか？",a:"Are you going to the castle?",b:"Yes. How long does it take to get there?"},{en:"Could you take a picture for me?",ja:"写真を撮ってもらえますか？",a:"Do you need help?",b:"Yes. Could you take a picture for me?"}]},
+{id:"t07",scene:"shopping",cat:"travel",title:"7. 買い物・免税",items:[{en:"Can I try this on?",ja:"試着してもいいですか？",a:"Would you like to try it?",b:"Yes. Can I try this on?"},{en:"Is this tax-free?",ja:"これは免税ですか？",a:"Are you visiting from abroad?",b:"Yes. Is this tax-free?"},{en:"Could I get a receipt, please?",ja:"レシートをいただけますか？",a:"Anything else?",b:"Could I get a receipt, please?"}]},
+{id:"t08",scene:"emergency",cat:"travel",title:"8. 体調・緊急時",items:[{en:"I need to see a doctor.",ja:"医師に診てもらう必要があります。",a:"How can I help?",b:"I need to see a doctor."},{en:"Where can I buy some medicine?",ja:"薬はどこで買えますか？",a:"What are you looking for?",b:"Where can I buy some medicine?"},{en:"Please call an ambulance.",ja:"救急車を呼んでください。",a:"What's wrong?",b:"Please call an ambulance."}]},
+{id:"w05",scene:"inspection",cat:"work",title:"5. 点検",items:[{en:"I'll check the oil level first.",ja:"まず油量を確認します。",a:"What will you check first?",b:"I'll check the oil level first."},{en:"The reading is within the normal range.",ja:"測定値は正常範囲内です。",a:"How does the reading look?",b:"The reading is within the normal range."},{en:"I found no visible damage.",ja:"目視できる損傷はありませんでした。",a:"Did you find any damage?",b:"No. I found no visible damage."}]},
+{id:"w06",scene:"pressure",cat:"work",title:"6. 漏れ・圧力",items:[{en:"The pressure keeps dropping.",ja:"圧力が下がり続けています。",a:"What's happening to the pressure?",b:"The pressure keeps dropping."},{en:"There may be a leak in the line.",ja:"配管に漏れがあるかもしれません。",a:"What could be causing it?",b:"There may be a leak in the line."},{en:"Let's check the fittings and seals.",ja:"継手とシールを確認しましょう。",a:"What should we check?",b:"Let's check the fittings and seals."}]},
+{id:"w07",scene:"cooling",cat:"work",title:"7. 温度・冷却",items:[{en:"The outlet temperature is too high.",ja:"出口温度が高すぎます。",a:"What did you notice?",b:"The outlet temperature is too high."},{en:"The cooling water may not be flowing properly.",ja:"冷却水が正常に流れていない可能性があります。",a:"What could be wrong?",b:"The cooling water may not be flowing properly."},{en:"Let's compare the inlet and outlet temperatures.",ja:"入口と出口の温度を比較しましょう。",a:"What should we do next?",b:"Let's compare the inlet and outlet temperatures."}]},
+{id:"w08",scene:"sensor",cat:"work",title:"8. センサー・信号",items:[{en:"The sensor isn't detecting the position correctly.",ja:"センサーが位置を正しく検出していません。",a:"What's wrong with the sensor?",b:"The sensor isn't detecting the position correctly."},{en:"The signal changes too early.",ja:"信号の切り替わりが早すぎます。",a:"What did you observe?",b:"The signal changes too early."},{en:"Let's check the sensor alignment.",ja:"センサーの位置合わせを確認しましょう。",a:"What should we check?",b:"Let's check the sensor alignment."}]},
+{id:"w09",scene:"electrical",cat:"work",title:"9. 電気・電源",items:[{en:"The breaker has tripped.",ja:"ブレーカーが落ちています。",a:"Why is there no power?",b:"The breaker has tripped."},{en:"We need to check the voltage.",ja:"電圧を確認する必要があります。",a:"What should we measure?",b:"We need to check the voltage."},{en:"Don't touch the terminals until the power is isolated.",ja:"電源を遮断するまで端子に触れないでください。",a:"Can I check the terminals now?",b:"Don't touch the terminals until the power is isolated."}]},
+{id:"w10",scene:"repair",cat:"work",title:"10. 修理後の確認",items:[{en:"The repair is complete.",ja:"修理は完了しました。",a:"Is the repair finished?",b:"Yes. The repair is complete."},{en:"Let's run the machine and check it again.",ja:"機械を動かしてもう一度確認しましょう。",a:"What should we do now?",b:"Let's run the machine and check it again."},{en:"Everything looks normal now.",ja:"現在はすべて正常に見えます。",a:"How does it look now?",b:"Everything looks normal now."}]},
+{id:"w11",scene:"history",cat:"work",title:"11. 故障履歴",items:[{en:"This problem happened once before.",ja:"この問題は以前にも一度発生しました。",a:"Has this happened before?",b:"Yes. This problem happened once before."},{en:"The same part was replaced last year.",ja:"同じ部品を去年交換しました。",a:"Was this part replaced before?",b:"The same part was replaced last year."},{en:"Let's check the maintenance record.",ja:"保全記録を確認しましょう。",a:"How can we find out?",b:"Let's check the maintenance record."}]},
+{id:"w12",scene:"diagnosis",cat:"work",title:"12. 原因切り分け",items:[{en:"Let's rule out the electrical side first.",ja:"まず電気系統を原因候補から切り分けましょう。",a:"Where should we start?",b:"Let's rule out the electrical side first."},{en:"If the pressure is stable, the valve may not be the cause.",ja:"圧力が安定しているなら、バルブが原因ではないかもしれません。",a:"Could the valve be the cause?",b:"If the pressure is stable, the valve may not be the cause."},{en:"We need more data before replacing the part.",ja:"部品を交換する前に、さらにデータが必要です。",a:"Should we replace it now?",b:"We need more data before replacing the part."}]},
 {id:"a03",cat:"advanced",title:"3. 仮説を説明する",items:[{en:"One possibility is that the signal is being interrupted.",ja:"一つの可能性は、信号が途切れていることです。",a:"What could explain this?",b:"One possibility is that the signal is being interrupted."},{en:"That would explain why the problem is intermittent.",ja:"それなら問題が断続的に起きる理由を説明できます。",a:"Does that fit what we're seeing?",b:"Yes. That would explain why the problem is intermittent."},{en:"We should test that hypothesis before making any changes.",ja:"変更する前に、その仮説を検証すべきです。",a:"Should we change the setting?",b:"Not yet. We should test that hypothesis before making any changes."}]},
 {id:"a04",cat:"advanced",title:"4. 条件付きで提案する",items:[{en:"If the temperature rises again, we should stop the machine.",ja:"再び温度が上がったら、機械を停止すべきです。",a:"When should we stop it?",b:"If the temperature rises again, we should stop the machine."},{en:"As long as the pressure remains stable, we can continue the test.",ja:"圧力が安定している限り、試験を続けられます。",a:"Can we keep testing?",b:"As long as the pressure remains stable, we can continue the test."},{en:"I'd rather wait until we have enough data.",ja:"十分なデータが揃うまで待ちたいです。",a:"Should we decide now?",b:"I'd rather wait until we have enough data."}]},
 {id:"a05",cat:"advanced",title:"5. 誤解を修正する",items:[{en:"That's not quite what I meant.",ja:"私が言いたかったのは少し違います。",a:"So you want to replace it?",b:"That's not quite what I meant."},{en:"What I'm saying is that we need to verify the cause first.",ja:"私が言いたいのは、まず原因を確認する必要があるということです。",a:"Then what do you mean?",b:"What I'm saying is that we need to verify the cause first."},{en:"Sorry, I should have explained that more clearly.",ja:"すみません、もっと分かりやすく説明すべきでした。",a:"I misunderstood you.",b:"Sorry, I should have explained that more clearly."}]},
