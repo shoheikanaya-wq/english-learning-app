@@ -1,0 +1,17 @@
+window.ENGLISH_COURSE={categories:[["basic","基礎","まず使える10単元"],["intermediate","中級","自分で文を組み立てる"],["daily","日常","暮らしで使う英語"],["travel","旅行","海外で困らない"],["work","仕事","報告・確認・設備"],["advanced","上級","自然に説明・意見"],["master","超級","即興・高速会話・交渉"]],lessons:[
+{id:"b01",cat:"basic",title:"1. あいさつ",items:[{en:"Good morning.",ja:"おはようございます。",a:"Good morning.",b:"Good morning! How are you?"},{en:"How are you?",ja:"元気ですか？",a:"How are you?",b:"I'm good, thank you."}]},
+{id:"b02",cat:"basic",title:"2. 自己紹介",items:[{en:"My name is Shohei.",ja:"私の名前はショウヘイです。",a:"What's your name?",b:"My name is Shohei."},{en:"I'm from Japan.",ja:"日本から来ました。",a:"Where are you from?",b:"I'm from Japan."}]},
+{id:"b03",cat:"basic",title:"3. 基本応答",items:[{en:"Yes, that's right.",ja:"はい、その通りです。",a:"Is this correct?",b:"Yes, that's right."},{en:"I'm not sure.",ja:"よく分かりません。",a:"Do you know?",b:"I'm not sure."}]},
+{id:"b04",cat:"basic",title:"4. お願い・確認",items:[{en:"Could you say that again?",ja:"もう一度言ってもらえますか？",a:"Did you understand?",b:"Could you say that again?"},{en:"Please speak more slowly.",ja:"もう少しゆっくり話してください。",a:"Is this speed okay?",b:"Please speak more slowly."}]},
+{id:"b05",cat:"basic",title:"5. 時間",items:[{en:"What time is it?",ja:"何時ですか？",a:"What time is it?",b:"It's three o'clock."}]},
+{id:"b06",cat:"basic",title:"6. 場所",items:[{en:"Where is the station?",ja:"駅はどこですか？",a:"Can I help you?",b:"Where is the station?"}]},
+{id:"b07",cat:"basic",title:"7. 買い物",items:[{en:"How much is this?",ja:"これはいくらですか？",a:"Can I help you?",b:"How much is this?"}]},
+{id:"b08",cat:"basic",title:"8. 食事",items:[{en:"I'd like some coffee, please.",ja:"コーヒーをお願いします。",a:"What would you like?",b:"I'd like some coffee, please."}]},
+{id:"b09",cat:"basic",title:"9. 移動",items:[{en:"How do I get there?",ja:"そこへはどう行けばいいですか？",a:"Where are you going?",b:"How do I get there?"}]},
+{id:"b10",cat:"basic",title:"10. 困ったとき",items:[{en:"Could you help me?",ja:"手伝ってもらえますか？",a:"Are you okay?",b:"Could you help me?"}]},
+{id:"i01",cat:"intermediate",title:"状況を説明する",items:[{en:"The machine stopped suddenly.",ja:"機械が突然停止しました。",a:"What happened?",b:"The machine stopped suddenly."},{en:"I think the sensor may be causing the problem.",ja:"センサーが問題の原因かもしれないと思います。",a:"What do you think is wrong?",b:"I think the sensor may be causing the problem."}]},
+{id:"d01",cat:"daily",title:"日常のひとこと",items:[{en:"I'll be back soon.",ja:"すぐ戻ります。",a:"Are you going out?",b:"Yes. I'll be back soon."}]},
+{id:"t01",cat:"travel",title:"ホテル",items:[{en:"I have a reservation.",ja:"予約しています。",a:"How can I help you?",b:"I have a reservation."}]},
+{id:"w01",cat:"work",title:"確認と報告",items:[{en:"Let me check it first.",ja:"まず確認させてください。",a:"Can you fix it now?",b:"Let me check it first."},{en:"The pressure is lower than usual.",ja:"圧力が通常より低いです。",a:"What did you notice?",b:"The pressure is lower than usual."}]},
+{id:"a01",cat:"advanced",title:"理由を説明する",items:[{en:"The main reason is that we need more information.",ja:"主な理由は、さらに情報が必要だからです。",a:"Why can't we decide yet?",b:"The main reason is that we need more information."}]},
+{id:"m01",cat:"master",title:"即興対応",items:[{en:"Let me make sure I understand what you mean.",ja:"あなたの意図を正しく理解できているか確認させてください。",a:"Do you understand my point?",b:"Let me make sure I understand what you mean."}]}]};
