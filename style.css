@@ -30,3 +30,13 @@ body[data-scene="home"]{background:linear-gradient(180deg,#dff2ff 0,#f7fbff 240p
 .cat{position:relative;overflow:hidden;text-align:left}.catArt{display:block;font-size:2rem;line-height:1;margin-bottom:7px;filter:drop-shadow(0 2px 2px #0002)}.cat:after{content:"";position:absolute;width:74px;height:74px;border-radius:50%;right:-24px;bottom:-30px;background:#ffffff55}
 .cat-basic{background:linear-gradient(135deg,#fff,#e5f1ff)}.cat-intermediate{background:linear-gradient(135deg,#fff,#eee8ff)}.cat-daily{background:linear-gradient(135deg,#fff,#e8f5e4)}.cat-travel{background:linear-gradient(135deg,#fff,#e3f5ff)}.cat-work{background:linear-gradient(135deg,#fff,#e8edf0)}.cat-advanced{background:linear-gradient(135deg,#fff,#fff1d8)}.cat-master{background:linear-gradient(135deg,#fff,#f7e5ff)}
 @media(max-width:600px){.homeVisual{min-height:112px;padding:14px 16px}.homePeople{font-size:2.35rem}.catArt{font-size:1.75rem}}
+
+/* one-screen-first mobile density */
+@media(max-width:600px){
+body{font-size:14px}header{padding:8px 12px;min-height:44px}header small{font-size:.72rem}
+main{padding:8px 10px 18px}.hero{padding:12px 14px;margin:6px 0 8px}.hero h1{font-size:1.35rem;margin:0 0 5px}.hero button{min-height:42px;margin-top:8px}
+.card{padding:10px 12px;margin:7px 0}.homeVisual{min-height:72px;margin:7px 0 9px;padding:8px 12px}.homePeople{font-size:1.8rem;margin:2px 0}.homeSky{font-size:1.1rem;top:6px}.homeVisual b{font-size:.98rem}.homeVisual span{font-size:.76rem;margin-top:2px}
+h2{font-size:1.05rem;margin:8px 0 5px}.grid{gap:6px;grid-template-columns:repeat(2,minmax(0,1fr))}.cat{min-height:66px;padding:8px 10px}.catArt{display:inline-block;font-size:1.3rem;margin:0 6px 2px 0;vertical-align:middle}.cat b{display:inline;font-size:.95rem}.cat span:not(.catArt){display:block;font-size:.72rem;margin-top:3px}
+.installBox{margin-bottom:12px}.installRow{gap:8px}.installRow img{width:82px;height:82px}.installBox p{margin:4px 0;font-size:.75rem}.installAppBtn{min-height:40px;padding:7px 10px}
+.sceneVisual{min-height:58px;margin:6px 0;padding:7px 9px}.sceneArt{flex-basis:76px;height:50px}.sceneArt .sceneIcon{font-size:1.55rem!important}.scenePerson{font-size:1.45rem}.sceneBubble{font-size:.85rem}.sceneVisual b{font-size:.95rem}.sceneVisual small{font-size:.74rem}.practiceCard{padding:9px}.phrase{margin:7px 0}.tabs{margin:6px 0}
+}
