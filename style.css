@@ -40,3 +40,9 @@ h2{font-size:1.05rem;margin:8px 0 5px}.grid{gap:6px;grid-template-columns:repeat
 .installBox{margin-bottom:12px}.installRow{gap:8px}.installRow img{width:82px;height:82px}.installBox p{margin:4px 0;font-size:.75rem}.installAppBtn{min-height:40px;padding:7px 10px}
 .sceneVisual{min-height:58px;margin:6px 0;padding:7px 9px}.sceneArt{flex-basis:76px;height:50px}.sceneArt .sceneIcon{font-size:1.55rem!important}.scenePerson{font-size:1.45rem}.sceneBubble{font-size:.85rem}.sceneVisual b{font-size:.95rem}.sceneVisual small{font-size:.74rem}.practiceCard{padding:9px}.phrase{margin:7px 0}.tabs{margin:6px 0}
 }
+
+/* denser lesson selection: more content per screen */
+.lessonGrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}
+.lessonTile{display:grid;grid-template-columns:30px 1fr;grid-template-rows:auto auto;column-gap:7px;align-items:center;text-align:left;min-height:58px;padding:7px 9px;border:0;border-radius:12px;background:#fff;box-shadow:0 2px 8px #0000000d}
+.lessonMiniArt{grid-row:1/3;font-size:1.45rem}.lessonTile b{font-size:.9rem;line-height:1.2}.lessonTile small{font-size:.68rem;color:#647482;margin-top:2px}
+@media(max-width:600px){.categoryHero{padding:9px 12px;margin:5px 0 7px}.categoryHero h1{font-size:1.3rem;margin:2px 0}.categoryHero p{font-size:.75rem;margin:2px 0}.sceneTag{font-size:.65rem}.lessonGrid{gap:5px}.lessonTile{min-height:50px;padding:5px 7px;border-radius:10px}.lessonMiniArt{font-size:1.25rem}.lessonTile b{font-size:.82rem}.lessonTile small{font-size:.62rem}}
