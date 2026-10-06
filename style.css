@@ -21,3 +21,12 @@ body{transition:background .25s ease}body[data-theme="home"]{background:linear-g
 .scene-train .sceneArt,.scene-transport .sceneArt{background:linear-gradient(180deg,#dff1ff 0 60%,#c7cdd2 60%)}
 .scene-inspection .sceneArt,.scene-pressure .sceneArt,.scene-cooling .sceneArt,.scene-sensor .sceneArt,.scene-electrical .sceneArt,.scene-repair .sceneArt,.scene-diagnosis .sceneArt,.scene-safety .sceneArt{background:linear-gradient(180deg,#e7edf1 0 58%,#c8d0d4 58%)}
 @media(max-width:600px){.sceneArt{flex-basis:96px;height:64px}.sceneArt .sceneIcon{font-size:2rem!important}.scenePerson{font-size:1.9rem}.sceneVisual{gap:10px}}
+
+/* visual home and illustrated course buttons */
+body[data-scene="home"]{background:linear-gradient(180deg,#dff2ff 0,#f7fbff 240px,#f4f7fa 100%)}
+.homeVisual{position:relative;overflow:hidden;margin:14px 0 18px;padding:18px 20px;border-radius:22px;min-height:126px;background:linear-gradient(145deg,#cfeaff,#fff4df);box-shadow:0 5px 18px #00000012}
+.homeVisual:after{content:"";position:absolute;left:0;right:0;bottom:0;height:30px;background:linear-gradient(90deg,#bdd8b0,#d8e7bc)}
+.homeSky{position:absolute;right:18px;top:12px;font-size:1.7rem;opacity:.85}.homePeople{position:relative;z-index:2;font-size:2.7rem;margin:16px 0 5px}.homeVisual b,.homeVisual span{position:relative;z-index:2;display:block}.homeVisual b{font-size:1.15rem}.homeVisual span{margin-top:4px;color:#506170;font-size:.9rem}
+.cat{position:relative;overflow:hidden;text-align:left}.catArt{display:block;font-size:2rem;line-height:1;margin-bottom:7px;filter:drop-shadow(0 2px 2px #0002)}.cat:after{content:"";position:absolute;width:74px;height:74px;border-radius:50%;right:-24px;bottom:-30px;background:#ffffff55}
+.cat-basic{background:linear-gradient(135deg,#fff,#e5f1ff)}.cat-intermediate{background:linear-gradient(135deg,#fff,#eee8ff)}.cat-daily{background:linear-gradient(135deg,#fff,#e8f5e4)}.cat-travel{background:linear-gradient(135deg,#fff,#e3f5ff)}.cat-work{background:linear-gradient(135deg,#fff,#e8edf0)}.cat-advanced{background:linear-gradient(135deg,#fff,#fff1d8)}.cat-master{background:linear-gradient(135deg,#fff,#f7e5ff)}
+@media(max-width:600px){.homeVisual{min-height:112px;padding:14px 16px}.homePeople{font-size:2.35rem}.catArt{font-size:1.75rem}}
