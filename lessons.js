@@ -38,27 +38,27 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 {en:"Where is the station?",ja:"駅はどこですか？",a:"Can I help you?",b:"Yes. Where is the station?"},
 {en:"Is it far from here?",ja:"ここから遠いですか？",a:"The station is that way.",b:"Is it far from here?"},
 {en:"Turn left at the corner.",ja:"角を左に曲がってください。",a:"How do I get there?",b:"Turn left at the corner."},
-{en:"It's next to the bank.",ja:"銀行の隣です。",a:"Where is the pharmacy?",b:"It's next to the bank."}]},
+{en:"It's next to the bank.",ja:"銀行の隣です。",a:"Where is the pharmacy?",b:"It's next to the bank."},{en:"Go straight for two blocks.",ja:"2ブロックまっすぐ進んでください。",a:"How do I get to the station?",b:"Go straight for two blocks."},{en:"Is this the right way?",ja:"この道で合っていますか？",a:"Where are you going?",b:"To the station. Is this the right way?"}]},
 {id:"b07",scene:"shopping",cat:"basic",title:"7. 買い物",items:[
 {en:"How much is this?",ja:"これはいくらですか？",a:"Can I help you?",b:"Yes. How much is this?"},
 {en:"Do you have a larger size?",ja:"もっと大きいサイズはありますか？",a:"How does it fit?",b:"It's small. Do you have a larger size?"},
 {en:"I'll take this one.",ja:"これにします。",a:"Would you like this one?",b:"Yes. I'll take this one."},
-{en:"Can I pay by card?",ja:"カードで払えますか？",a:"How would you like to pay?",b:"Can I pay by card?"}]},
+{en:"Can I pay by card?",ja:"カードで払えますか？",a:"How would you like to pay?",b:"Can I pay by card?"},{en:"Can I try this on?",ja:"試着してもいいですか？",a:"Do you like this shirt?",b:"Yes. Can I try this on?"},{en:"Do you have this in black?",ja:"これの黒はありますか？",a:"Which color would you like?",b:"Do you have this in black?"}]},
 {id:"b08",scene:"restaurant",cat:"basic",title:"8. 食事・注文",items:[
 {en:"I'd like some coffee, please.",ja:"コーヒーをお願いします。",a:"What would you like?",b:"I'd like some coffee, please."},
 {en:"Could I see the menu, please?",ja:"メニューを見せてもらえますか？",a:"Are you ready to order?",b:"Not yet. Could I see the menu, please?"},
 {en:"What do you recommend?",ja:"おすすめは何ですか？",a:"Would you like something to eat?",b:"Yes. What do you recommend?"},
-{en:"Could I have the check, please?",ja:"お会計をお願いします。",a:"Anything else?",b:"No, thank you. Could I have the check, please?"}]},
+{en:"Could I have the check, please?",ja:"お会計をお願いします。",a:"Anything else?",b:"No, thank you. Could I have the check, please?"},{en:"I'd like this, please.",ja:"これをお願いします。",a:"Are you ready to order?",b:"Yes. I'd like this, please."},{en:"Could I have some water?",ja:"お水をもらえますか？",a:"Anything to drink?",b:"Could I have some water?"}]},
 {id:"b09",scene:"transport",cat:"basic",title:"9. 移動・交通",items:[
 {en:"How do I get there?",ja:"そこへはどう行けばいいですか？",a:"Where are you going?",b:"I'm going to the museum. How do I get there?"},
 {en:"Which train should I take?",ja:"どの電車に乗ればいいですか？",a:"Where are you going?",b:"Nagoya. Which train should I take?"},
 {en:"Does this bus go to the station?",ja:"このバスは駅に行きますか？",a:"Can I help you?",b:"Yes. Does this bus go to the station?"},
-{en:"I'd like to go to this address.",ja:"この住所までお願いします。",a:"Where would you like to go?",b:"I'd like to go to this address."}]},
+{en:"I'd like to go to this address.",ja:"この住所までお願いします。",a:"Where would you like to go?",b:"I'd like to go to this address."},{en:"Where can I buy a ticket?",ja:"切符はどこで買えますか？",a:"Do you need a ticket?",b:"Yes. Where can I buy a ticket?"},{en:"What time is the next train?",ja:"次の電車は何時ですか？",a:"The train just left.",b:"What time is the next train?"}]},
 {id:"b10",scene:"help",cat:"basic",title:"10. 困ったとき",items:[
 {en:"Could you help me?",ja:"手伝ってもらえますか？",a:"Are you okay?",b:"I need some help. Could you help me?"},
 {en:"I can't find my phone.",ja:"携帯電話が見つかりません。",a:"What's wrong?",b:"I can't find my phone."},
 {en:"I don't feel well.",ja:"気分がよくありません。",a:"Are you okay?",b:"No. I don't feel well."},
-{en:"Where is the nearest hospital?",ja:"一番近い病院はどこですか？",a:"Do you need a doctor?",b:"Yes. Where is the nearest hospital?"}]},
+{en:"Where is the nearest hospital?",ja:"一番近い病院はどこですか？",a:"Do you need a doctor?",b:"Yes. Where is the nearest hospital?"},{en:"I need a doctor.",ja:"医者が必要です。",a:"Are you feeling okay?",b:"No. I need a doctor."},{en:"I lost my wallet.",ja:"財布をなくしました。",a:"What's the problem?",b:"I lost my wallet."}]},
 
 {id:"i01",cat:"intermediate",title:"1. 状況を説明する",items:[
 {en:"The machine stopped suddenly.",ja:"機械が突然停止しました。",a:"What happened?",b:"The machine stopped suddenly."},
