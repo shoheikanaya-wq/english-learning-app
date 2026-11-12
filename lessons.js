@@ -122,7 +122,10 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 
 {id:"a01",cat:"advanced",title:"1. 理由を説明する",items:[
 {en:"The main reason is that we need more information.",ja:"主な理由は、さらに情報が必要だからです。",a:"Why can't we decide yet?",b:"The main reason is that we need more information."},
-{en:"I chose this option because it's safer and easier to maintain.",ja:"より安全で保全しやすいため、この方法を選びました。",a:"Why did you choose this option?",b:"I chose this option because it's safer and easier to maintain."}]},
+{en:"I chose this option because it's safer and easier to maintain.",ja:"より安全で保全しやすいため、この方法を選びました。",a:"Why did you choose this option?",b:"I chose this option because it's safer and easier to maintain."},
+{en:"Mostly for work, but I'd also like to practice my English.",alt:"It's mainly for work, and I want to improve my English, too.",ja:"主に仕事ですが、英語の練習もしたいからです。",a:"So, why are you visiting the U.S.?",b:"Mostly for work, but I'd also like to practice my English."},
+{en:"I wanted to beat the traffic.",alt:"I wanted to avoid the rush hour.",ja:"渋滞を避けたかったからです。",a:"Why did you leave so early this morning?",b:"I wanted to beat the traffic."},
+{en:"It's too expensive, and the train is faster anyway.",alt:"The train is cheaper and quicker.",ja:"高すぎるし、どうせ電車のほうが速いからです。",a:"Why don't you want to take a taxi?",b:"It's too expensive, and the train is faster anyway."}]},
 {id:"a02",cat:"advanced",title:"2. 意見を調整する",items:[
 {en:"I see your point, but I have one concern.",ja:"言いたいことは分かりますが、一つ懸念があります。",a:"I think we should restart it now.",b:"I see your point, but I have one concern."},
 {en:"I agree in principle, but we should confirm the data first.",ja:"基本的には賛成ですが、まずデータを確認すべきです。",a:"Do you agree with the plan?",b:"I agree in principle, but we should confirm the data first."}]},
