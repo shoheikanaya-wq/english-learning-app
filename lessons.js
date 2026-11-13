@@ -128,7 +128,10 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 {en:"It's too expensive, and the train is faster anyway.",alt:"The train is cheaper and quicker.",ja:"高すぎるし、どうせ電車のほうが速いからです。",a:"Why don't you want to take a taxi?",b:"It's too expensive, and the train is faster anyway."}]},
 {id:"a02",cat:"advanced",title:"2. 意見を調整する",items:[
 {en:"I see your point, but I have one concern.",ja:"言いたいことは分かりますが、一つ懸念があります。",a:"I think we should restart it now.",b:"I see your point, but I have one concern."},
-{en:"I agree in principle, but we should confirm the data first.",ja:"基本的には賛成ですが、まずデータを確認すべきです。",a:"Do you agree with the plan?",b:"I agree in principle, but we should confirm the data first."}]},
+{en:"I agree in principle, but we should confirm the data first.",ja:"基本的には賛成ですが、まずデータを確認すべきです。",a:"Do you agree with the plan?",b:"I agree in principle, but we should confirm the data first."},
+{en:"That might be a little early. How about six thirty?",alt:"Six sounds a bit early. Could we make it six thirty?",ja:"それは少し早いかもしれません。6時半はどうですか？",a:"I think we should leave at six to be safe.",b:"That might be a little early. How about six thirty?"},
+{en:"I'm fine with that, as long as it's close to the station.",alt:"Sure, but I'd like it to be near the station.",ja:"それでいいですよ。駅に近ければ。",a:"Let's just book the cheapest hotel.",b:"I'm fine with that, as long as it's close to the station."},
+{en:"Fair enough. Let's come back later when it's less crowded.",alt:"I get it. Why don't we come back when it's quieter?",ja:"確かに。空いているときにまた来ましょう。",a:"I really don't want to wait in that long line.",b:"Fair enough. Let's come back later when it's less crowded."}]},
 
 {id:"m01",cat:"master",title:"1. 意図を確認する",items:[
 {en:"Let me make sure I understand what you mean.",ja:"あなたの意図を正しく理解できているか確認させてください。",a:"Do you understand my point?",b:"Let me make sure I understand what you mean."},
