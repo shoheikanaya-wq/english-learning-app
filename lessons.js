@@ -135,7 +135,10 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 
 {id:"m01",cat:"master",title:"1. 意図を確認する",items:[
 {en:"Let me make sure I understand what you mean.",ja:"あなたの意図を正しく理解できているか確認させてください。",a:"Do you understand my point?",b:"Let me make sure I understand what you mean."},
-{en:"If I understand correctly, you're suggesting that we wait.",ja:"正しく理解していれば、待つことを提案しているのですね。",a:"What do you think I'm suggesting?",b:"If I understand correctly, you're suggesting that we wait."}]},
+{en:"If I understand correctly, you're suggesting that we wait.",ja:"正しく理解していれば、待つことを提案しているのですね。",a:"What do you think I'm suggesting?",b:"If I understand correctly, you're suggesting that we wait."},
+{en:"Just to be clear, do you mean not today, or not at all?",alt:"So, is it just today, or is it not possible at all?",ja:"確認ですが、今日は無理ということですか、それともまったく無理ということですか？",a:"Sorry, we can't really do that.",b:"Just to be clear, do you mean not today, or not at all?"},
+{en:"Are you saying it gets crowded?",alt:"Do you mean it gets busy?",ja:"混むということですか？",a:"You might want to get there a little early.",b:"Are you saying it gets crowded?"},
+{en:"So should I wait here, or come back later?",alt:"Do you want me to wait, or come back a bit later?",ja:"では、ここで待てばいいですか、それとも後で戻ってきたほうがいいですか？",a:"Your room isn't quite ready yet.",b:"So should I wait here, or come back later?"}]},
 {id:"m02",cat:"master",title:"2. 言い換えて伝える",items:[
 {en:"Let me put it another way.",alt:"Let me rephrase that.",ja:"別の言い方をします。",a:"I'm not sure I understand.",b:"Let me put it another way."},
 {en:"In other words, the issue isn't the motor itself.",ja:"つまり、問題はモーターそのものではありません。",a:"So the motor is broken?",b:"Not exactly. In other words, the issue isn't the motor itself."}]},
