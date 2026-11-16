@@ -93,7 +93,10 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 {id:"t02",scene:"airport",cat:"travel",title:"2. 空港で場所・便を確認",items:[
 {en:"Where is the check-in counter?",ja:"チェックインカウンターはどこですか？",a:"Can I help you?",b:"Yes. Where is the check-in counter?"},
 {en:"Which gate does the flight leave from?",ja:"この便は何番ゲートから出発しますか？",a:"What would you like to know?",b:"Which gate does the flight leave from?"},
-{en:"My flight has been delayed.",ja:"私の便が遅れています。",a:"Why are you still here?",b:"My flight has been delayed."}]},
+{en:"My flight has been delayed.",ja:"私の便が遅れています。",a:"Why are you still here?",b:"My flight has been delayed."},
+{en:"Just one, and this backpack is my carry-on.",alt:"One bag to check, and I'll carry this one on.",ja:"1つだけです。このリュックは機内に持ち込みます。",a:"How many bags are you checking today?",b:"Just one, and this backpack is my carry-on."},
+{en:"Could I get an aisle seat, if possible?",alt:"Is there an aisle seat available?",ja:"できれば通路側の席にしてもらえますか？",a:"Do you have a seat preference?",b:"Could I get an aisle seat, if possible?"},
+{en:"I'm transferring to Chicago. Do I need to pick up my bag here?",alt:"I have a connecting flight to Chicago. Do I have to collect my luggage?",ja:"シカゴへ乗り継ぎます。ここで荷物を受け取る必要がありますか？",a:"Is this your final destination?",b:"No, I'm transferring to Chicago. Do I need to pick up my bag here?"}]},
 {id:"t03",scene:"restaurant",cat:"travel",title:"3. レストラン",items:[
 {en:"Do you have a table for two?",ja:"2人ですが席はありますか？",a:"Good evening.",b:"Good evening. Do you have a table for two?"},
 {en:"Does this contain nuts?",ja:"これにはナッツが入っていますか？",a:"Would you like to order this?",b:"Maybe. Does this contain nuts?"},
