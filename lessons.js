@@ -89,7 +89,10 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 {id:"t01",scene:"hotel",cat:"travel",title:"1. ホテルの基本",items:[
 {en:"I have a reservation.",ja:"予約しています。",a:"How can I help you?",b:"I have a reservation."},
 {en:"Could I check in early?",ja:"早めにチェックインできますか？",a:"Check-in starts at three.",b:"Could I check in early?"},
-{en:"What time is check-out?",ja:"チェックアウトは何時ですか？",a:"Is there anything else?",b:"Yes. What time is check-out?"}]},
+{en:"What time is check-out?",ja:"チェックアウトは何時ですか？",a:"Is there anything else?",b:"Yes. What time is check-out?"},
+{en:"Sure. Here's my confirmation email.",alt:"Of course. I have the confirmation on my phone.",ja:"はい。こちらが予約確認メールです。",a:"Can I see your reservation, please?",b:"Sure. Here's my confirmation email."},
+{en:"Okay. How much is the hold?",alt:"Sure. How much will you put on hold?",ja:"分かりました。仮押さえはいくらですか？",a:"We'll need a credit card for incidentals.",b:"Okay. How much is the hold?"},
+{en:"Thanks. Is breakfast included?",alt:"Great. Does the rate include breakfast?",ja:"ありがとうございます。朝食は付いていますか？",a:"Here's your key. You're in room 812.",b:"Thanks. Is breakfast included?"}]},
 {id:"t02",scene:"airport",cat:"travel",title:"2. 空港で場所・便を確認",items:[
 {en:"Where is the check-in counter?",ja:"チェックインカウンターはどこですか？",a:"Can I help you?",b:"Yes. Where is the check-in counter?"},
 {en:"Which gate does the flight leave from?",ja:"この便は何番ゲートから出発しますか？",a:"What would you like to know?",b:"Which gate does the flight leave from?"},
