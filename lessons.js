@@ -103,7 +103,10 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 {id:"t03",scene:"restaurant",cat:"travel",title:"3. レストラン",items:[
 {en:"Do you have a table for two?",ja:"2人ですが席はありますか？",a:"Good evening.",b:"Good evening. Do you have a table for two?"},
 {en:"Does this contain nuts?",ja:"これにはナッツが入っていますか？",a:"Would you like to order this?",b:"Maybe. Does this contain nuts?"},
-{en:"Everything was delicious.",ja:"どれもおいしかったです。",a:"How was your meal?",b:"Everything was delicious."}]},
+{en:"Everything was delicious.",ja:"どれもおいしかったです。",a:"How was your meal?",b:"Everything was delicious."},
+{en:"Just water for now, thanks.",alt:"Could I just have some water to start?",ja:"とりあえずお水だけでお願いします。",a:"Can I get you something to drink?",b:"Just water for now, thanks."},
+{en:"Not yet. Could we have a few more minutes?",alt:"Could you give us a couple more minutes?",ja:"まだです。もう少し時間をもらえますか？",a:"Are you ready to order?",b:"Not yet. Could we have a few more minutes?"},
+{en:"Separate checks, please.",alt:"Could we pay separately?",ja:"別々でお願いします。",a:"Will this be all together or separate?",b:"Separate checks, please."}]},
 {id:"t04",scene:"trouble",cat:"travel",title:"4. トラブル",items:[
 {en:"I think I'm lost.",ja:"道に迷ったようです。",a:"Do you need help?",b:"Yes. I think I'm lost."},
 {en:"My luggage hasn't arrived.",ja:"荷物が出てきません。",a:"What's the problem?",b:"My luggage hasn't arrived."},
