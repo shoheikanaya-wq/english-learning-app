@@ -84,7 +84,7 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 {id:"d03",cat:"daily",title:"3. 電話の基本",items:[
 {en:"I'll call you later.",ja:"あとで電話します。",a:"Can you talk now?",b:"I'm busy right now. I'll call you later."},
 {en:"I just sent you a message.",ja:"今メッセージを送りました。",a:"Did you send the address?",b:"Yes. I just sent you a message."},
-{en:"Sorry, I missed your call.",ja:"電話に出られなくてすみません。",a:"I called you earlier.",b:"Sorry, I missed your call."}]},
+{en:"Sorry, I missed your call.",ja:"電話に出られなくてすみません。",a:"I called you earlier.",b:"Sorry, I missed your call."},{en:"Hi, I'd like to make a reservation for tonight.",alt:"Hi, can I book a table for tonight?",ja:"こんにちは、今夜の予約をしたいのですが。",a:"Thanks for calling. How can I help you?",b:"Hi, I'd like to make a reservation for tonight."},{en:"This is Shohei. I'm returning your call.",alt:"Hi, it's Shohei. You called me earlier.",ja:"ショウヘイです。折り返しのお電話です。",a:"Hello. May I ask who's calling?",b:"This is Shohei. I'm returning your call."},{en:"Sorry, the signal is bad here. Can you hear me now?",alt:"Is that better? Can you hear me okay?",ja:"すみません、ここは電波が悪くて。今は聞こえますか？",a:"Sorry, you're breaking up.",b:"Sorry, the signal is bad here. Can you hear me now?"}]},
 
 {id:"t01",scene:"hotel",cat:"travel",title:"1. ホテルの基本",items:[
 {en:"I have a reservation.",ja:"予約しています。",a:"How can I help you?",b:"I have a reservation."},
