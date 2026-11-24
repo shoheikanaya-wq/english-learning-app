@@ -110,7 +110,7 @@ window.ENGLISH_COURSE={categories:[["basic","基礎","10単元・生活英語の
 {id:"t04",scene:"trouble",cat:"travel",title:"4. トラブル",items:[
 {en:"I think I'm lost.",ja:"道に迷ったようです。",a:"Do you need help?",b:"Yes. I think I'm lost."},
 {en:"My luggage hasn't arrived.",ja:"荷物が出てきません。",a:"What's the problem?",b:"My luggage hasn't arrived."},
-{en:"Could you call a taxi for me?",ja:"タクシーを呼んでもらえますか？",a:"How can I help?",b:"Could you call a taxi for me?"}]},
+{en:"Could you call a taxi for me?",ja:"タクシーを呼んでもらえますか？",a:"How can I help?",b:"Could you call a taxi for me?"},{en:"Can you put me on the next flight?",alt:"Is there another flight I can take today?",ja:"次の便に乗せてもらえますか？",a:"I'm sorry, your flight has been canceled.",b:"Oh no. Can you put me on the next flight?"},{en:"Could you try it one more time?",alt:"Okay. Can I use a different card?",ja:"もう一度試してもらえますか？",a:"Sorry, your card was declined.",b:"Really? Could you try it one more time?"},{en:"I locked myself out of my room.",alt:"I left my key card inside the room.",ja:"部屋に鍵を置いたまま閉め出されてしまいました。",a:"Hi. What can I do for you?",b:"Hi. I locked myself out of my room."}]},
 
 {id:"w01",scene:"report",cat:"work",title:"1. 確認と報告",items:[
 {en:"Let me check it first.",ja:"まず確認させてください。",a:"Can you fix it now?",b:"Let me check it first."},
